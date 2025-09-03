@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://pnc3434.github.io/project123/)
+- [Публичная страница на GitHub Pages](https://pnc3434.github.io/project123/src/index.html)
